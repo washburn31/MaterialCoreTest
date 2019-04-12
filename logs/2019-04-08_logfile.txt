@@ -1,0 +1,2 @@
+2019-04-08 21:06:56.5481 INFO Here is info message from our values controller.
+2019-04-08 21:06:56.6428 DEBUG Here is debug message from our values controller.
